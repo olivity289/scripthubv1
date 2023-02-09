@@ -1,0 +1,165 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+local Window = Library.CreateLib("script hub", "BloodTheme")
+
+-- Reanimator
+
+local Reanimator = Window:NewTab ("Reanimator")
+
+local ReanimatorSection = :NewSection("Reanimator")
+
+ReanimatorSection:NewButton("Reanimator", " r15tor6", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/olivity289/reanimator/main/Reanimator"))();
+
+end)
+
+-- Script
+
+local Script = Window:NewTab ("Script")
+
+local ScriptSection = :NewSection("Script")
+
+ScriptSection:NewButton("Fe fire gloves", " Fe fire gloves", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/dYc5b7a2"))();
+
+end)
+
+ScriptSection:NewButton("Fe vodoo master r15", " Fe vodoo master r15", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/YfbTuYJp"))();
+
+end)
+
+ScriptSection:NewButton("accessoires voodoo master", "...", function()
+
+    setclipboard("253151806")
+
+toclipboard("253151806")
+
+end)
+
+ScriptSection:NewButton("accessoires voodoo master", "...", function()
+
+    setclipboard("7548993875")
+
+toclipboard("7548993875")
+
+end)
+
+ScriptSection:NewButton("accessoires voodoo master", "...", function()
+
+    setclipboard("2309346267")
+
+toclipboard("2309346267")
+
+end)
+
+ScriptSection:NewButton("Fe banisher R15", " Fe banisher R15", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/AsV4NgyB"))();
+
+end)
+
+ScriptSection:NewButton("accessoires banisher r15", "...", function()
+
+    setclipboard("9375788266")
+
+toclipboard("9375788266")
+
+end)
+
+ScriptSection:NewButton("accessoires banisher r15", "...", function()
+
+    setclipboard("9867487176")
+
+toclipboard("9867487176")
+
+end)
+
+ScriptSection:NewButton("accessoires banisher r15", "...", function()
+
+    setclipboard("617605556")
+
+toclipboard("617605556")
+
+end)
+
+ScriptSection:NewButton("Fe soul rapper / goner", " utiliser reanimator", function()
+
+    loadstring(game:HttpGet(('https://pastebin.com/raw/FfYZvELt'),true))()
+
+end)
+
+ScriptSection:NewButton("accessoires soul rapper / goner", "...", function()
+
+    setclipboard("5552252553")
+
+toclipboard("5552252553")
+
+end)
+
+ScriptSection:NewButton("accessoires soul rapper / goner", "...", function()
+
+    setclipboard("48474313")
+
+toclipboard("48474313")
+
+end)
+
+ScriptSection:NewButton("Fe Hunter", " utiliser reanimator", function()
+
+    loadstring(game:HttpGet(('https://pastebin.com/raw/u22mjfpM'),true))()
+
+end)
+
+ScriptSection:NewButton("accessoires Hunter", "...", function()
+
+    setclipboard("5944291607")
+
+toclipboard("5944291607")
+
+end)
+
+ScriptSection:NewButton("accessoires Hunter", "...", function()
+
+    setclipboard("63690008")
+
+toclipboard("63690008")
+
+end)
+
+ScriptSection:NewButton("Fe shooting Ramen", " utiliser reanimator", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/xqqxZJ72"))()
+
+end)
+
+ScriptSection:NewButton("accessoires shooting Ramen", "...", function()
+
+    setclipboard("11462463669")
+
+toclipboard("11462463669")
+
+end)
+
+ScriptSection:NewButton("accessoires shooting Ramen", "...", function()
+
+    setclipboard("63690008")
+
+toclipboard("63690008")
+
+end)
+
+ScriptSection:NewButton("Fe fake Death", " Fe fake Death", function()
+
+    loadstring(game:HttpGet(('https://pastebin.com/raw/YsySdrFb'),true))()
+
+end)
+
+ScriptSection:NewButton("Fe Master ", " Fe Master ", function()
+
+    loadstring(game:HttpGet(('https://pastebin.com/raw/gJC4kvgy'),true))()
+
+end)
